@@ -16,5 +16,10 @@ Make A Website People Love
 #Understanding Typography
 ``https://www.dailyui.co/``
 ``https://collectui.com/``
+``https://www.canva.com/``
+
+Capstone project
+``https://appbrewery.github.io/capstone-2-example/``
+
 
 
