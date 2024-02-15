@@ -21,5 +21,11 @@ Make A Website People Love
 Capstone project
 ``https://appbrewery.github.io/capstone-2-example/``
 
+Javascript Module
+https://www.youtube.com/watch?v=_C5AHaS1mOA
+https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dad7b1cb-2490-48a1-9959-3040a7e0cf27/ie6-comic-strip.jpg
 
-
+https://github.com/rwaldron/idiomatic.js
+https://en.wikipedia.org/wiki/The_Elements_of_Style
+https://stanford.edu/~cpiech/karel/ide.html
+https://www.w3schools.com/jsref/jsref_floor.asp
