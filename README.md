@@ -29,3 +29,6 @@ https://github.com/rwaldron/idiomatic.js
 https://en.wikipedia.org/wiki/The_Elements_of_Style
 https://stanford.edu/~cpiech/karel/ide.html
 https://www.w3schools.com/jsref/jsref_floor.asp
+
+##While Loop
+https://www.99-bottles-of-beer.net/lyrics.html
