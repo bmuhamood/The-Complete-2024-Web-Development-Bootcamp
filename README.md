@@ -32,3 +32,6 @@ https://www.w3schools.com/jsref/jsref_floor.asp
 
 ##While Loop
 https://www.99-bottles-of-beer.net/lyrics.html
+
+DOM - HTML Tree Generator extension
+https://chromewebstore.google.com/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg
