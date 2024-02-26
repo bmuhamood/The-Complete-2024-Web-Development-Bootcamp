@@ -35,3 +35,8 @@ https://www.99-bottles-of-beer.net/lyrics.html
 
 DOM - HTML Tree Generator extension
 https://chromewebstore.google.com/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg
+
+JQUERY
+https://developers.google.com/speed/libraries#jquery
+https://code.jquery.com/jquery-3.7.1.min.js
+https://www.minifier.org/
